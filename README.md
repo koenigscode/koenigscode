@@ -9,4 +9,4 @@ Besides school I program a lot in my free time: web development with modern JS f
 I've been using Photoshop for several years now and enjoy editing photos I've taken. I've also got some experience with Premiere Pro for editing videos.
 
 ### My work
-Make sure to check out my website, [michaelkoenig.at](michaelkoenig.at) ;)
+Make sure to check out my website, [michaelkoenig.at](https://michaelkoenig.at) ;)
