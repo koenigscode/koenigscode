@@ -11,4 +11,4 @@ I've been using Photoshop for several years now and enjoy editing photos I've ta
 ### My work
 Make sure to check out my website, [michaelkoenig.at](https://michaelkoenig.at) ;)
 
-![](https://github-readme-stats.vercel.app/api?username=koenigscode&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=koenigscode&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
