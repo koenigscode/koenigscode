@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Michael, 18 years old and currently attending the department for informatics at the HTL St. Pölten with focus on Java, relational database design, network engineering and project management.
+I'm Michael and currently attending the department for informatics at the HTL St. Pölten with focus on Java, relational database design, network engineering and project management.
 
 ### Programming
 Besides school I program a lot in my free time: web development with modern JS frameworks (React/Next, Vue), autonomous flying with drones (Python) + other projects.
