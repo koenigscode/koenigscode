@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-I'm Michael and currently attending the department for informatics at the HTL St. Pölten with focus on Java, relational database design, network engineering and project management.
+I'm Michael and currently attending the programme 'Software Engineering and Management' at the University of Gothenburg.
 
 ### Programming
-Besides school I program a lot in my free time: web development with modern JS frameworks (React/Next, Vue), autonomous flying with drones (Python) + other projects.
-
-### Creative
-I've been using Photoshop for several years now and enjoy editing photos I've taken. I've also got some experience with Premiere Pro for editing videos.
+Besides university I program a lot in my free time: web development with modern JS frameworks (i.e. React/Next), I did some autonomous flying with drones (Python), program with Flutter+Dart and work on other projects.
 
 ### My work
 Make sure to check out my website, [michaelkoenig.at](https://michaelkoenig.at) ;)
